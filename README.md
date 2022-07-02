@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sasa, <br/><a href="[https://github.com/Sasas-Requiem]">A Newbie Programmer!</a>
 
-<h2>Current Projects:</h2>
+<h2>FUTURE Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Works on YouTube </h2>
+<h2>📺 FUTURE Works on YouTube </h2>
 
 - [Project 1](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Project 2](https://www.youtube.com/watch?v=uHy3oM7NnoU)
