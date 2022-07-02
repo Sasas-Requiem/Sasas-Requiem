@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sasa! <br/><a href="[https://github.com/Sasas-Requiem]">Programmer</a>
+<h1>Hi, I'm Sasa, <br/><a href="[https://github.com/Sasas-Requiem]">A Newbie Programmer!</a>
 
 <h2>Current Projects:</h2>
 
