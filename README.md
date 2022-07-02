@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sasa! <br/><a href="[https://github.com/Sasas-Requiem]">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sasa! <br/><a href="[https://github.com/Sasas-Requiem]">Programmer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
