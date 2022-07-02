@@ -11,10 +11,6 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
@@ -23,8 +19,12 @@
 - [Project 1](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Project 2](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Project 3](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Project 4](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Project 5](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2> Certifications </h2>
+
+- [ITIL 4](https://linkedin.com/in/sylviareshellemartinezspiker/)
+- [A +](https://linkedin.com/in/sylviareshellemartinezspiker/)
+- [EC-CES v2](https://linkedin.com/in/sylviareshellemartinezspiker/)
 
 <h2> Connect with me:</h2>
 
